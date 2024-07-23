@@ -22,7 +22,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>Create a view stement based on UIKit framework</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Create View</string>
 	<key>IDECodeSnippetUserSnippet</key>
