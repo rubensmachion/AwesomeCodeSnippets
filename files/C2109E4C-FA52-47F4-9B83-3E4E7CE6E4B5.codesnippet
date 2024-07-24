@@ -3,21 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mark</string>
+	<string>stylefunction</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - &lt;#name#&gt;</string>
+	<string>@discardableResult
+func &lt;#name#&gt;(_ value: &lt;#Type#&gt;) -&gt; Self {
+    self.&lt;#param#&gt; = value
+    return self
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8F0B2A2D-7940-41C2-BE91-4F0052E63327</string>
+	<string>C2109E4C-FA52-47F4-9B83-3E4E7CE6E4B5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Create a mark</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark</string>
+	<string>Stylable Function</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
